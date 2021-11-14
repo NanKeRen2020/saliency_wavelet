@@ -6,7 +6,7 @@ Reimplement saliency estimation using a non-parametric vision model of Naila Mur
 
 We detect the salinecy using 2D-haar separable wavelet  and 2D nonseparable wavelet 
 
-including gabor wavelet of another project https://github.com/NanKeRen2020/saliency_gabor.
+including gabor wavelet of my another project https://github.com/NanKeRen2020/saliency_gabor.
 
 Tips: You can try other wavelet like symlet wavelet or other symmetry wavelet, but not asymmetry wavelet.
 
@@ -30,15 +30,15 @@ step2:  ./saliency_wavelet  deep21.bmp  non
  
 original image
 
-![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/saliency_wavelet/deep21.bmp)
+![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/deep21.bmp)
 
 result image
 
-![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/saliency_wavelet/result.png)
+![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/result.png)
 
 sum of result image
 
-![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/saliency_wavelet/result_sum.png)
+![image](https://github.com/NanKeRen2020/saliency_wavelet/blob/main/result_sum.png)
 
 
 Enjoy!!!
