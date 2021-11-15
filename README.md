@@ -8,18 +8,20 @@ We detect the salinecy using 2D-haar separable wavelet  and 2D nonseparable wave
 
 including gabor wavelet of my another project https://github.com/NanKeRen2020/saliency_gabor.
 
-Tips: You can try other wavelet like symlet wavelet or other symmetry wavelet, but not asymmetry wavelet.
+Tips: You can try other wavelet like symlet wavelet or other symmetry wavelet.
 
-The saliency map result seem not good as symmetry wavelet, for example Daubechies wavelet.  
+But the saliency map result of asymmetry wavelet, for example Daubechies wavelet, 
+
+seem not good as symmetry wavelet.  
 
 
-Environments:
+Environments
 =============
 
 Ubuntu1604  OpenCV3.4.x
 
 
-Build & Run:
+Build & Run
 ============
 
 cd saliency_wavelet
@@ -52,3 +54,5 @@ References
     ACTA MATHEMATICA SINICA-ENGLISH SERIES 18.No.4(2002):719–726. 
 
 [2] Daubechies, I.: Ten Lectures on Wavelets, CBMS, 61, SIAM, Philadelphia, (1992).
+
+[3] Murray, N. , et al. "Saliency estimation using a non-parametric low-level vision model." CVPR 2011 IEEE, 2011.
