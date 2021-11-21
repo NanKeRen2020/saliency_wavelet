@@ -2,7 +2,7 @@
 About
 =====
 
-This project detect the salinecy using 2D-haar separable wavelet and 2D nonseparable wavelet
+This project detect the salinecy using 2D haar separable wavelet and 2D nonseparable wavelet
 
 including gabor wavelet which also implement in my another project https://github.com/NanKeRen2020/saliency_gabor.
 
