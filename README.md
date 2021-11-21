@@ -48,9 +48,9 @@ Enjoy!!!
 References
 ==========
 
-[1] Peng, SL,et al."Construction of two-dimensional compactly supported orthogonal wavelets filters with linear phase".
+[1] Peng, SL,et al. Construction of two-dimensional compactly supported orthogonal wavelets filters with linear phase.
     ACTA MATHEMATICA SINICA-ENGLISH SERIES 18.No.4(2002):719–726. 
 
-[2] Daubechies, I.: Ten Lectures on Wavelets, CBMS, 61, SIAM, Philadelphia, (1992).
+[2] Daubechies, I. Ten Lectures on Wavelets, CBMS, 61, SIAM, Philadelphia, (1992).
 
-[3] Murray, N. , et al. "Saliency estimation using a non-parametric low-level vision model." CVPR 2011 IEEE, 2011.
+[3] Murray, N.,et al. Saliency estimation using a non-parametric low-level vision model. CVPR 2011 IEEE, 2011.
