@@ -2,15 +2,13 @@
 About
 =====
 
-Reimplement saliency estimation using a non-parametric vision model of Naila Murray in C++
+This project detect the salinecy using 2D-haar separable wavelet  and 2D nonseparable wavelet 
 
-We detect the salinecy using 2D-haar separable wavelet  and 2D nonseparable wavelet 
-
-including gabor wavelet of my another project https://github.com/NanKeRen2020/saliency_gabor.
+including gabor wavelet which also implement in my another project https://github.com/NanKeRen2020/saliency_gabor.
 
 Tips: You can try other wavelet like symlet wavelet or other symmetry wavelet.
 
-But the saliency map result of asymmetry wavelet, for example Daubechies wavelet, 
+But the saliency map result of asymmetry wavelet(like Daubechies wavelet) 
 
 seem not good as symmetry wavelet.  
 
@@ -29,6 +27,8 @@ cd saliency_wavelet
 step1:  g++ -std=c++11 -o saliency_wavelet saliency_wavelet.cpp `pkg-config --cflags --libs opencv`
 
 step2:  ./saliency_wavelet  deep21.bmp  non
+
+You can check other option in the main function.  
  
 original image
 
